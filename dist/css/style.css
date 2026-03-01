@@ -327,7 +327,7 @@ body {
     top: -35px;
   }
 }
-@media (max-width: 380px) {
+@media (max-width: 431px) {
   .advantages__cards-wrapper {
     gap: 15px;
   }
